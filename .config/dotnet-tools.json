@@ -1,4 +1,8 @@
-{
+# Define the prototype "Legal Aid"
+legal\_aid = {
+    "specialization": ["crypto laws", "security laws", "financial securities laws", "rights with securities"],
+    "goals": ["provide legal advice in crypto, security, and financial matters", "protect clients' security interests", "ensure compliance with financial regulations", "advise and support Perrette and Associates Private Investment Firm LLC"],
+    "knowledge": ["crypto regulations", "data protection{
   "version": 1,
   "isRoot": true,
   "tools": {
